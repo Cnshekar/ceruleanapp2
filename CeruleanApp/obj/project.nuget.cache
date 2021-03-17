@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BDupvi1pWKLaLr6ChUCLF8+y4p9dHn7XWGAjYXLxTRmMeBuxmZdD7/Pb+WE8FOBHNa+cEkT7ai9Z2Uuyko6iiw==",
+  "dgSpecHash": "EyuRmdAvWyq6B87+MzNWdgKHNHQ0u6/tKqi2AdQ2CI49qp83KYbRc2KzCbRurqP75nswfu6p4TYpWuC5k0OMdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\veereshk\\Desktop\\cerulean\\CeruleanApp\\CeruleanApp.csproj",
+  "projectFilePath": "C:\\projects\\ceruleanapp2\\CeruleanApp\\CeruleanApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\veereshk\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.4\\microsoft.aspnetcore.authentication.jwtbearer.3.1.4.nupkg.sha512",
     "C:\\Users\\veereshk\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

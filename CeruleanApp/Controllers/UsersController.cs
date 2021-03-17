@@ -30,7 +30,7 @@ namespace CeruleanApp.Controllers
             var response = _userService.Authenticate(model, ipAddress());
 
             if (response == null)
-                return BadRequest(new { message = "Username or password is incorrect" });
+                return BadRequest(new { message = "Username or password is incorrect." });
 
             setTokenCookie(response.RefreshToken);
 

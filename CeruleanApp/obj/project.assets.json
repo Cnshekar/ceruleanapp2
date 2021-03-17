@@ -4213,11 +4213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\veereshk\\Desktop\\cerulean\\CeruleanApp\\CeruleanApp.csproj",
+      "projectUniqueName": "C:\\projects\\ceruleanapp2\\CeruleanApp\\CeruleanApp.csproj",
       "projectName": "CeruleanApp",
-      "projectPath": "C:\\Users\\veereshk\\Desktop\\cerulean\\CeruleanApp\\CeruleanApp.csproj",
+      "projectPath": "C:\\projects\\ceruleanapp2\\CeruleanApp\\CeruleanApp.csproj",
       "packagesPath": "C:\\Users\\veereshk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\veereshk\\Desktop\\cerulean\\CeruleanApp\\obj\\",
+      "outputPath": "C:\\projects\\ceruleanapp2\\CeruleanApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
